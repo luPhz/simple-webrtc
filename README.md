@@ -1,5 +1,7 @@
-webrtc-audio-video
-==================                                                                                                                                                                                                                    
+simple-webrtc
+=============
+
+This is based on https://github.com/emannion/webrtc-audio-video
 
 A simple WebRTC Audio / Video call test page using web socket transport
 - Uses node.js and WebSocket.
